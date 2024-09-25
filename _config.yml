@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "CHEN TONG (童晨)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "CHEN TONG (童晨), Xiamen Univeristy"
 description              : &description "personal description"
 url                      : https://tongchen1119.github.io/tongchen1119/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
